@@ -5,9 +5,9 @@ Quick color studies, wherever you are. A gamut mask decides which colors are on 
 This page is for downloading Pocket Easel **directly as an APK**, for phones without Google Play. If your phone has Google Play, you can get it from the Play Store instead.
 
 <p>
-  <img src="screenshot-1-canvas.png" width="240" alt="Painting on the canvas">
-  <img src="screenshot-2-joystick.png" width="240" alt="Mixing color with the joystick">
-  <img src="screenshot-3-picker.png" width="240" alt="Color wheel with a gamut mask">
+  <img src="screenshot-1-canvas%202.png" width="240" alt="Painting on the canvas">
+  <img src="screenshot-2-joystick%202.png" width="240" alt="Mixing color with the joystick">
+  <img src="screenshot-3-picker%202.png" width="240" alt="Color wheel with a gamut mask">
 </p>
 
 ## Download
